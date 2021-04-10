@@ -1,2 +1,4 @@
 This is example 3 text file
 practicing on how to merge
+This is example three text file
+practicing on how to merge
