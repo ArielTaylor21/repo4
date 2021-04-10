@@ -1,3 +1,6 @@
 This is example 2 of 
 a text file working on merging and 
 pushining files to github
+This is example TWO of 
+a text file working on merging and 
+pushining files to github
